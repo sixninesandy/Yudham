@@ -32,7 +32,7 @@ permissions:
 
 env:
   REPO: github/codespaces-blank
-  CODESPACE: crispy-doodle-p7pj9rvrvj742rq96
+  CODESPACE: fuzzy-spoon-p77gxrr7pp5w367gw
   STATE_FILE: state/runs.json
 
 jobs:
