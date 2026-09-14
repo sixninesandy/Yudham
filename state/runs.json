@@ -1,25 +1,12 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "order": [
-    "account1",
     "account2",
+    "account4",
     "account3",
-    "account6",
+    "account1",
     "account5",
-    "account4"
+    "account6"
   ],
-  "runs": [
-    {
-      "account": "account1",
-      "status": "completed",
-      "started_at": "2026-09-14T13:44:23.795121+00:00",
-      "completed_at": "2026-09-14T14:27:10.488040+00:00"
-    },
-    {
-      "account": "account2",
-      "status": "completed",
-      "started_at": "2026-09-14T17:43:07.176985+00:00",
-      "completed_at": "2026-09-14T18:32:32.674882+00:00"
-    }
-  ]
+  "runs": []
 }
