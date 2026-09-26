@@ -11,8 +11,9 @@
   "runs": [
     {
       "account": "account6",
-      "status": "running",
-      "started_at": "2026-09-26T20:05:04.223982+00:00"
+      "status": "completed",
+      "started_at": "2026-09-26T20:05:04.223982+00:00",
+      "completed_at": "2026-09-26T20:57:29.898287+00:00"
     }
   ]
 }
