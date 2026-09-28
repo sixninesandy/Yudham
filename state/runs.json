@@ -1,43 +1,12 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "order": [
-    "account2",
     "account1",
-    "account4",
+    "account2",
+    "account6",
     "account3",
     "account5",
-    "account6"
+    "account4"
   ],
-  "runs": [
-    {
-      "account": "account2",
-      "status": "completed",
-      "started_at": "2026-09-27T20:19:52.200197+00:00",
-      "completed_at": "2026-09-27T21:10:13.188233+00:00"
-    },
-    {
-      "account": "account1",
-      "status": "completed",
-      "started_at": "2026-09-27T23:53:22.449288+00:00",
-      "completed_at": "2026-09-28T00:49:57.101768+00:00"
-    },
-    {
-      "account": "account4",
-      "status": "completed",
-      "started_at": "2026-09-28T07:16:38.003902+00:00",
-      "completed_at": "2026-09-28T08:06:56.074206+00:00"
-    },
-    {
-      "account": "account3",
-      "status": "completed",
-      "started_at": "2026-09-28T10:04:23.481047+00:00",
-      "completed_at": "2026-09-28T10:51:10.280863+00:00"
-    },
-    {
-      "account": "account5",
-      "status": "completed",
-      "started_at": "2026-09-28T16:52:44.996030+00:00",
-      "completed_at": "2026-09-28T17:43:28.882482+00:00"
-    }
-  ]
+  "runs": []
 }
