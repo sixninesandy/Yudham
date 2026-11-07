@@ -8,5 +8,11 @@
     "account4",
     "account3"
   ],
-  "runs": []
+  "runs": [
+    {
+      "account": "account1",
+      "status": "running",
+      "started_at": "2026-11-07T21:01:52.341783+00:00"
+    }
+  ]
 }
