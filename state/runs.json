@@ -1,18 +1,12 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "order": [
-    "account4",
-    "account3",
     "account5",
-    "account6",
+    "account4",
     "account1",
-    "account2"
+    "account3",
+    "account2",
+    "account6"
   ],
-  "runs": [
-    {
-      "account": "account4",
-      "status": "running",
-      "started_at": "2026-11-16T18:46:06.070837+00:00"
-    }
-  ]
+  "runs": []
 }
